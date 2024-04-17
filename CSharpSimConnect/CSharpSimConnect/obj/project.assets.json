@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ralch\\source\\repos\\rolex20\\CSharpSimConnect\\CSharpSimConnect\\CSharpSimConnect.csproj",
+      "projectUniqueName": "C:\\Users\\ralch\\source\\repos\\rolex20\\CSharpSimConnect\\CSharpSimConnect\\CSharpSimConnect\\CSharpSimConnect.csproj",
       "projectName": "CSharpSimConnect",
-      "projectPath": "C:\\Users\\ralch\\source\\repos\\rolex20\\CSharpSimConnect\\CSharpSimConnect\\CSharpSimConnect.csproj",
+      "projectPath": "C:\\Users\\ralch\\source\\repos\\rolex20\\CSharpSimConnect\\CSharpSimConnect\\CSharpSimConnect\\CSharpSimConnect.csproj",
       "packagesPath": "C:\\Users\\ralch\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ralch\\source\\repos\\rolex20\\CSharpSimConnect\\CSharpSimConnect\\obj\\",
+      "outputPath": "C:\\Users\\ralch\\source\\repos\\rolex20\\CSharpSimConnect\\CSharpSimConnect\\CSharpSimConnect\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "S:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
