@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharpSimConnect")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1df4e5a7d648536e7234ac0688be2c7bc241f102")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5347c41f621e09b9b793315e3d20be717abdfd07")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharpSimConnect")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharpSimConnect")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

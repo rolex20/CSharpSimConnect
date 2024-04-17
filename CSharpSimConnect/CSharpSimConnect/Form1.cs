@@ -140,7 +140,7 @@ namespace SimConnect3
         private void UpdateUI(Struct1 data)
         {
             lblAircraftName.Text = "Aircraft: [" + data.title + "]";
-            lblTrueAirspeed.Text = "True Airspeed: [" + data.trueAirspeed.ToString() + "] knots";
+            lblTrueAirspeed.Text = "True Airspeed: [" + data.trueAirspeed.ToString() + "]";
             lblFlapsStatus.Text = "Flaps: [" + data.flaps.ToString() + "] percent";
             lblAirbrakesStatus.Text = "Airbrakes: [" + data.spoilers.ToString() + "] percent";
             lblTimestamp.Text = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss.fff");  // Get current timestamp with milliseconds
